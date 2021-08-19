@@ -4,7 +4,6 @@ Project disctiption: part of the AI course project dedicated to analyse the elec
 Dataset sourse: https://www.kaggle.com/manchunhui/us-election-2020-tweets
 
 The goal of the research: to explore the discourse and public opinion around the election across the USA states based on sentiment analysis and topic modelling.
-
 Team: Yuliia Nikolaenko, Mihaela Grigore, Lara Wagner
 
 Table of Content:
