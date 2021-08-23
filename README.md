@@ -1,4 +1,4 @@
-# AI_NLP_election_analysis
+# Election tweets NLP analysis
 Project disctiption: part of the AI course project dedicated to analyse the election discourse using sentiment analysis and topic modeling.
 
 Dataset sourse: https://www.kaggle.com/manchunhui/us-election-2020-tweets
